@@ -1,8 +1,8 @@
 # Online Retail Revenue Analyze
 ## Finding the North Star Metric and analyze the data to see how to find the reason if there is any recesion in the business revenue,
-
+---
 ***Eventually with the help of Cohort Based Retention Rate table we found that Total user count dropped significantly from March to April***
-
+---
 ### Monthly Revenue
 ![image](https://user-images.githubusercontent.com/97127734/150126634-161f306a-2c43-4700-94d2-c6e05c817d06.png)
 
