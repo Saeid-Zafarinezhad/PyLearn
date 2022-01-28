@@ -1,4 +1,4 @@
-# Covid_19 data set analysis
+### Covid_19 data set analysis
 ---
 ### Eight countries with the most new cases on the month Apr-2020 listed,
 
@@ -16,7 +16,11 @@
 
 ![image](https://user-images.githubusercontent.com/97127734/151530188-7d70a1f2-f2f3-40ca-b336-8fc2630fc8c2.png)
 
+### Compare the Male and Female on a scatter plot
+
+![image](https://user-images.githubusercontent.com/97127734/151533164-4bea9fc5-2502-4077-ac86-bcf79d974698.png)
+
 
 ### Create a K_Nearest Neighbors class with a method to calculate the accuracy of the KNN algorithm created. in addition, compare the accuracy of the algorithm with the SKlearn library.
 
-both accuracy are same:   **0.86**
+both accuracy are same:   ***0.89***
