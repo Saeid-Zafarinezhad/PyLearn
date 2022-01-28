@@ -16,6 +16,9 @@
 
 ![image](https://user-images.githubusercontent.com/97127734/151530188-7d70a1f2-f2f3-40ca-b336-8fc2630fc8c2.png)
 
+
+### Weight / Height / Gender dataset analysis
+---
 ### Compare the Male and Female on a scatter plot
 
 ![image](https://user-images.githubusercontent.com/97127734/151533164-4bea9fc5-2502-4077-ac86-bcf79d974698.png)
